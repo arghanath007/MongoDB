@@ -1,0 +1,5 @@
+MongoDB Compass(GUI) -> https://www.mongodb.com/try/download/compass
+MongoDB CLI -> https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/#run-mongodb-community-edition
+
+
+Instructions Link -> https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
